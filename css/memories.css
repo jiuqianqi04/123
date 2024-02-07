@@ -442,7 +442,7 @@
 		position:absolute;
 		width: 40%;
 		left:60%;
-		top:10%;
+		top:15%;
 	}
 }
 
@@ -451,14 +451,14 @@
 		position:absolute;
 		width: 60%;
 		left:10%;
-		top:5%;
+		top:2%;
 	}
 	
 	.ly-txt02 {
 		position:absolute;
 		width: 60%;
 		left:15%;
-		top:50%;
+		top:60%;
 	}
 
 	.ly-txt01 p {
